@@ -37,8 +37,10 @@ Open free_tracker.py in your code editor.
 
 Run the script:
 
-bash
-python free_tracker.py
+```bash
+python PolyBot.py
+```
+
 ⚙️ Configuration
 Inside the script, you can tweak the Simulation Settings:
 
